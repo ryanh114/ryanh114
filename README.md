@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with people to learn how to leverage AI to create more effective solutions
 - 📫 How to reach me: ryanrhuang4@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a wide variety of personal interests ranging from 
+- ⚡ Fun fact: I have a wide variety of personal interests ranging from bouldering to philosophy
 
 <!---
 ryanh114/ryanh114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
